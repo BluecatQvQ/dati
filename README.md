@@ -1,5 +1,7 @@
 # dati
 
+## Vue-cli3 \+ pug \+ stylus
+
 ## Project setup
 ```
 npm install
